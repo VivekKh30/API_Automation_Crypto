@@ -1,3 +1,3 @@
 class addresourcse:
-    path = '/country/code'
+    get_candle_stick_path = '/v2/public/get-candlestick'
 
